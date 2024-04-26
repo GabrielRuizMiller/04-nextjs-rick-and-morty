@@ -1,1 +1,0 @@
-# 04-nextjs-rick-and-morty
